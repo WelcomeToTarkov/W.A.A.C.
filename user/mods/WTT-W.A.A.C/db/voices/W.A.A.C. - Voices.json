@@ -1,0 +1,34 @@
+{
+    "Nadya": {
+        "locale": {
+            "en": {
+                "Nadya": "Nadya"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "Penny": {
+        "locale": {
+            "en": {
+                "Penny": "Penny"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "Lara": {
+        "locale": {
+            "en": {
+                "Lara": "Croft"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "Zoey": {
+        "locale": {
+            "en": {
+                "Zoey": "Zoey"
+            }        
+        },
+        "addVoiceToPlayer": true
+    }
+}
