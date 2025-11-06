@@ -1,0 +1,411 @@
+[
+	{
+		"type": "top",
+		"suiteId": "6748037e298128d377dfffd0",
+		"outfitId": "67480381bd1eb568c78598df",
+		"topId": "67480383b253d50226f3becd",
+		"handsId": "67480396eda19f232a648533",
+		"locales": {
+			"en": {
+				"name": "Lara's Tattered Tank Top",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/lara_top.bundle",
+		"handsBundlePath": "clothing/lara_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "674803a029367ad4cebc62a3",
+		"outfitId": "674803a1195103ac9199160f",
+		"bottomId": "674803a3e68064334083a248",
+		"locales": {
+			"en": {
+				"name": "Lara's Leather Combat Pants",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/lara_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150,
+		"questRequirements": [
+			"5e4d4ac186f774264f758336"
+		],
+		"achievementRequirements": [
+			"6514143d59647d2cb3213c93"
+		]
+	},
+	{
+		"type": "top",
+		"suiteId": "674803a8d97ed7424a19a252",
+		"outfitId": "674803a9b75004fafcdabfa4",
+		"topId": "674803aaa746bc558c564a95",
+		"handsId": "674803ac54617384f15d0fb5",
+		"locales": {
+			"en": 
+			{
+				"name": "Elena's Tactical Suit Upper",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/elena_top.bundle",
+		"handsBundlePath": "clothing/elena_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "674803b694f03fbe9af1c95b",
+		"outfitId": "674803b862143f94e7ac7c56",
+		"bottomId": "674803b9267a8f14fd94aa45",
+		"locales": {
+			"en": {
+				"name": "Elena's Tactical Suit Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/elena_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "674803bdffa730b2acc420a8",
+		"outfitId": "674803bf4816868ba35c26a8",
+		"topId": "674803c084fc853c33cf7d6b",
+		"handsId": "674803c288da91d7a1ead784",
+		"locales": {
+			"en": 
+			{
+				"name": "Arabic Soldier Upper",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/arab_top.bundle",
+		"handsBundlePath": "clothing/arab_fphands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "674803cbac6306312dd27edf",
+		"outfitId": "674803cc8cdbec7019b348a4",
+		"bottomId": "674803ce19f3cb8d8a61b744",
+		"locales": {
+			"en": {
+				"name": "Arabic Soldier Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/arab_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "674803d7d109b004d0cbed5c",
+		"outfitId": "674803d9c9d7d575a981159c",
+		"topId": "674803dbfa8cadd56c5dea49",
+		"handsId": "674803dcd8f6a3f4a153997e",
+		"locales": {
+			"en": {
+				"name": "Roze's Virago Upper",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/roze_virago_top.bundle",
+		"handsBundlePath": "clothing/roze_virago_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "674803e47d451252627d141c",
+		"outfitId": "674803e54da535e4d532098f",
+		"bottomId": "674803e6e6a2a8cceff3cd11",
+		"locales": {
+			"en":{
+				"name": "Roze's Virago Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/roze_virago_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "674803ed64d8e9b5f0f53757",
+		"outfitId": "674803eedf82f18606afd01b",
+		"topId": "674803ef6fb7d2f0b38fcc2d",
+		"handsId": "674803f0fa53fe247667efc7",
+		"locales": {
+			"en": {
+				"name": "Kleo Blackcell Upper",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/kleo_7_2_top.bundle",
+		"handsBundlePath": "clothing/kleo_7_2_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "674803f327e08ef512bdd810",
+		"outfitId": "674803f4b54c6a8412f0f0af",
+		"bottomId": "674803f59ab5902a9719a91e",
+		"locales": {
+			"en": {
+				"name": "Kleo Blackcell Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/kleo_7_2_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "674803f8758607f39a343cfc",
+		"outfitId": "674803fabc924f4bb816946a",
+		"topId": "674803fc14cfddda2a2d86ab",
+		"handsId": "674803fe3142a2853804a0f5",
+		"locales": {
+			"en": {
+				"name": "Roze's Standard Top",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/roze_1_1_top.bundle",
+		"handsBundlePath": "clothing/roze_1_1_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "67480401a5849e199056734b",
+		"outfitId": "6748040350f26645f03326bd",
+		"bottomId": "6748040491be032fda2b9c80",
+		"locales": {
+			"en": {
+				"name": "Roze's Standard Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/roze_1_1_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "67480406ac1f39c1a631762f",
+		"outfitId": "67480407e0c95b45d34d220b",
+		"topId": "67480408f6e6654a7865fee7",
+		"handsId": "67480409eb5288be39433343",
+		"locales": {
+			"en": {
+				"name": "Kleo's Fission Top",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/kleo_51_top.bundle",
+		"handsBundlePath": "clothing/kleo_51_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "6748040d10783714929a2135",
+		"outfitId": "6748040ed91a5fbb87adcb25",
+		"bottomId": "6748040f79b424b50780beb7",
+		"locales": {
+			"en": 
+			{
+				"name": "Kleo's Fission Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/kleo_51_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "67480411749c3e2b436d8530",
+		"outfitId": "674804128bcd07176ca1dd27",
+		"topId": "67480413496c17c5f5f3c7ab",
+		"handsId": "67480414aab2c73fc524b6a5",
+		"locales": {
+			"en": {
+				"name": "Valeria's Standard Top",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/valeria_1_top.bundle",
+		"handsBundlePath": "clothing/valeria_1_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "67480417032e332a7f1841e5",
+		"outfitId": "6748041804a6fd0366e646b0",
+		"bottomId": "6748041a73f4d46a803ba8ee",
+		"locales": {
+			"en": {
+				"name": "Valeria's Standard Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/valeria_1_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "6748041d3a623e40aec1b19f",
+		"outfitId": "6748041e73f55efb4e661557",
+		"topId": "6748041f4c9e10f6c3df65d5",
+		"handsId": "6748042241b1c5d48e155832",
+		"locales": {
+			"en": {
+				"name": "Valeria Blackcell Top",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/valeria_12_top.bundle",
+		"handsBundlePath": "clothing/valeria_12_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "6748042518372cadbfc39937",
+		"outfitId": "674804262ae8370e38f30bf1",
+		"bottomId": "6748042731d67705b50e06a9",
+		"locales": {
+			"en": {
+				"name": "Valeria Blackcell Lower",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/valeria_12_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "top",
+		"suiteId": "6748042a369b587a12b89067",
+		"outfitId": "6748042b79cc68b49f4c7c20",
+		"topId": "6748042d8cca47dd189736c2",
+		"handsId": "6748042eadfa4ceed5e748f9",
+		"locales": {
+			"en": {
+				"name": "Zoey's Zombie Attire Top",
+				"description": "Women's Upper"
+			}
+		},
+		"topBundlePath": "clothing/zoey_top.bundle",
+		"handsBundlePath": "clothing/zoey_hands.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	},
+	{
+		"type": "bottom",
+		"suiteId": "67480430bbf7dc4a5d33d9bb",
+		"outfitId": "6748043168351988b07b65d1",
+		"bottomId": "67480433b9078bef9c64344f",
+		"locales": {
+			"en": {
+				"name": "Zoey's Zombie Attire Pants",
+				"description": "Women's Lower"
+			}
+		},
+		"bottomBundlePath": "clothing/zoey_bottom.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "MONEY_ROUBLES",
+		"price": 150
+	}
+]

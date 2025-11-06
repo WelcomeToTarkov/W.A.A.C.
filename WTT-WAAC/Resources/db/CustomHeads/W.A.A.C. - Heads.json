@@ -1,0 +1,90 @@
+{
+    "6749e240101f7a863857863e": {
+        "path": "heads/furiosa_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Furiosa"
+        }
+    },
+    "6749e2421d2b9dac29c8df16": {
+        "path": "heads/lara_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Lara"
+        }
+    },
+    "6749e243618fa7b43976dbbd": {
+        "path": "heads/elena_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Elena"
+        }
+    },
+    "6749e244270c65fe94b07956": {
+        "path": "heads/laura_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Laura"
+        }
+    },
+    "6749e247662574ff0fa3bf4b": {
+        "path": "heads/eivor_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Eivor"
+        }
+    },
+    "6749e24911cd1bb602995a75": {
+        "path": "heads/valeria_1_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Valeria"
+        }
+    },
+    "6749e24bf0c915b2c3875d0b": {
+        "path": "heads/valeria_12_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Valeria (alt)"
+        }
+    },
+    "6749e24eea7b9c198a4f781f": {
+        "path": "heads/roze_1_1_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Roze"
+        }
+    },
+    "6749e24ffb3128d15415fc64": {
+        "path": "heads/mila_11_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Mila"
+        }
+    },
+    "6749e251f1dfaf8b8980da5e": {
+        "path": "heads/callisto_21_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Callisto"
+        }
+    },
+    "6749e255a905c48df0c5011c": {
+        "path": "heads/zoey_head.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Zoey"
+        }
+    }
+}

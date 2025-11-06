@@ -1,0 +1,118 @@
+{
+  "690caa522bff2c7776114d04": {
+    "itemTplToClone": "572b7f1624597762ae139822",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "items/arab_scarf.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Arabic Scarf",
+        "shortName": "Scarf",
+        "description": "A traditional lightweight scarf often worn in desert regions. Provides modest protection from dust, wind, and sun exposure."
+      }
+    },
+    "addtoInventorySlots": [
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 10900,
+    "handbookPriceRoubles": 7250,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "690cab42e522bff1b2114d06": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12125,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "690cab78f519987ecf114d0b": {
+    "itemTplToClone": "572b7f1624597762ae139822",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "items/elena_scarf.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Tactical Scarf",
+        "shortName": "Scarf",
+        "description": "A durable tactical scarf designed for female operators. Made from breathable fabric, it offers comfort and concealment in combat environments."
+       }
+    },
+    "addtoInventorySlots": [
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 13900,
+    "handbookPriceRoubles": 7250,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "RAGMAN": {
+        "690cab750b56deb851114d0a": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 14125,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  }
+}

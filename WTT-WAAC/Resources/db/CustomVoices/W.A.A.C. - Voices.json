@@ -1,0 +1,35 @@
+{
+    "6749e134736238b84464bb7f": {
+        "locales": {
+            "en": "Nadya"
+        },
+        "name": "Nadya",
+        "addVoiceToPlayer": true,
+	    "bundlePath": "voices/Nadya/Voices/nadya_voice.bundle"
+    },
+    "6749e135883e9b409e5504ad": {
+        "locales": {
+            "en": "Penny"
+        },
+        "name": "Penny",
+        "addVoiceToPlayer": true,
+	    "bundlePath": "voices/Penny/Voices/penny_voice.bundle"
+    },
+    "6749e1375921eb569cc77a28": {
+        "locales": {
+            "en": "Lara"
+        },
+        "name": "Lara",
+        "addVoiceToPlayer": true,
+    	"bundlePath": "voices/Lara/Voices/lara_voice.bundle"
+
+    },
+    "6749e1385477cbdf06903338": {
+        "locales": {
+            "en": "Zoey"
+        },
+        "name": "Zoey",
+        "addVoiceToPlayer": true,
+    	"bundlePath": "voices/Zoey/Voices/zoey_voice.bundle"
+    }
+}
